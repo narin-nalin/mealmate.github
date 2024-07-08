@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #553131;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 315px;
+    height: 264px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+}
+
+.slogan {
+    margin-bottom: 40px;
+    font-size: 28px;
+    font-weight: 400;
+    
+}
+
+.description {
+    font-size: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+}
